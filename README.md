@@ -1,2 +1,4 @@
-# matrix-maths-lib
-Implementation of some basic matrix operations in C from back in 2015.
+# Description
+
+Some matrix operations in C. There are some bugs as it got changed a couple of
+times after testing.
